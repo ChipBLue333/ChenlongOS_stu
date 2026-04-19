@@ -25,4 +25,8 @@
 - **运行截图**：[hello_world.png](pre_stu/arceos/hello_world.png)
   - *截图保存在 `./pre_stu/arceos/` 目录下*
 
+### 2. SPI 协议学习文档
+- **学习文档**：[SPI_stu.md](pre_stu/SPI/SPI_stu.md)
+  - *文档保存在 `./pre_stu/SPI/` 目录下*
+
 
